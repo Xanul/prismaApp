@@ -1,0 +1,15 @@
+{
+  "name": "prismaapp",
+  "version": "1.0.0",
+  "description": "Testing conections with SQL Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Rivas @Xanul",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "prisma": "^3.13.0"
+  }
+}
